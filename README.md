@@ -12,5 +12,6 @@ Once I have completed this first stage of the project, I want to modify the code
 |:---:|:---:|
 
 ![alt text] (https://github.com/VanderpoelLiam/SingleThreadArt/blob/master/Images/1-CONSTELLATION-MANA-16.jpg)
+
 ![alt text] (https://github.com/VanderpoelLiam/SingleThreadArt/blob/master/Images/2-CONSTELLATION-MANA-detail-26.jpg)
 
