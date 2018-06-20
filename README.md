@@ -8,10 +8,10 @@ The paper provides [their code](https://github.com/Exception1984/StringArt), how
 
 Once I have completed this first stage of the project, I want to modify the code to jointly optimize pin placement and string selection as this was a algorithmic limitation in the above paper. Hopefully this will allow the generation of artwork closer to the that of [Kumi Yamashita](http://www.kumiyamashita.com/constellation/):
 
-| [![alt text] (https://github.com/VanderpoelLiam/SingleThreadArt/blob/master/Images/1-CONSTELLATION-MANA-16.jpg) | ![alt text] (https://github.com/VanderpoelLiam/SingleThreadArt/blob/master/Images/2-CONSTELLATION-MANA-detail-26.jpg)] |
+| [![alt text] (https://github.com/VanderpoelLiam/SingleThreadArt/blob/master/Images/1-CONSTELLATION-MANA-16.png) | ![alt text] (https://github.com/VanderpoelLiam/SingleThreadArt/blob/master/Images/2-CONSTELLATION-MANA-detail-26.png)] |
 |:---:|:---:|
 
-![alt text] (https://github.com/VanderpoelLiam/SingleThreadArt/blob/master/Images/1-CONSTELLATION-MANA-16.jpg)
+![alt text] (https://github.com/VanderpoelLiam/SingleThreadArt/blob/master/Images/1-CONSTELLATION-MANA-16.png)
 
-![alt text] (https://github.com/VanderpoelLiam/SingleThreadArt/blob/master/Images/2-CONSTELLATION-MANA-detail-26.jpg)
+![alt text] (https://github.com/VanderpoelLiam/SingleThreadArt/blob/master/Images/2-CONSTELLATION-MANA-detail-26.png)
 
